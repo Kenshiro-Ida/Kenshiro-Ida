@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Proof-Of-Concept For a Blockchain based Suppy Chain Management System.
+I'm currently working on a Proof-Of-Concept For a Blockchain based Suppy Chain Management System for Fast Food based Companies in India.
 
 
 ## 🌐 Socials:
