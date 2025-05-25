@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on a Proof-Of-Concept For a Blockchain based Suppy Chain Management System for Fast Food based Companies in India.
+# 🚀 Currently Building::
+An AI-powered Intelligent Agent that simplifies and accelerates Income Tax Return (ITR) filing — making tax prep smarter, faster, and frustration-free. Leveraging cutting-edge NLP and automation, it's designed to minimize manual entry, reduce errors, and streamline the entire ITR process for individuals and businesses alike.
 
 
 ## 🌐 Socials:
